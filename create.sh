@@ -78,7 +78,7 @@ EOF
 lxc launch ubuntu:22.04 --profile default --profile x11 x11-firefox
 
 ### Create Alias ###
-echo 'alias LXFF="lxc exec x11-firefox -- sudo --user ubuntu --login --"' >> ~/.bashrc
+echo 'alias lxff="lxc exec x11-firefox -- sudo --user ubuntu --login --"' >> ~/.bashrc
 source ~/.bashrc
 
 # Wait for cloud-init to finish
