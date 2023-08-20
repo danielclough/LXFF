@@ -1,4 +1,4 @@
-# LXFF - Firefox in a Linux Container
+# LXFF - Firefox in a Linux Container (LXC)
 
 I do not get audio in Firefox. 😭
 But, I don't need it. 😏
